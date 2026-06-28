@@ -1,0 +1,7 @@
+# Binaries
+pdf-converter
+create_pdf
+
+# Test files
+test.pdf
+test_output.txt
